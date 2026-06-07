@@ -1,0 +1,6 @@
+{
+  "name": "Orvix",
+  "description": "متصفح إنترنت سريع وآمن يدعم التصفح الخصوصي وحجب الإعلانات، مع دعم الإضافات وحقن البرمجيات المخصصة لتحسين تجربة التصفح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
